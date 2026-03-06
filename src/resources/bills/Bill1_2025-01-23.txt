@@ -1,0 +1,7 @@
+Bill ID: 1
+Date: 2025-01-23
+--------------------------------
+Item Name            Quantity   Price     
+Battery              2          40.00     
+--------------------------------
+Total Amount:                   40.00
