@@ -1,4 +1,4 @@
- Electronic Store Management System
+ **Electronic Store Management System**
  
   A comprehensive desktop application built with JavaFX, designed to streamline the operations of an electronic retail store.
 
